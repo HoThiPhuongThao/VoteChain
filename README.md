@@ -3,7 +3,7 @@
 VoteChain là một ứng dụng phi tập trung (dApp) bỏ phiếu công bằng và minh bạch được xây dựng trên blockchain Sui.
 Ứng dụng cho phép người dùng tham gia bỏ phiếu trực tiếp bằng ví Sui, trong đó mỗi địa chỉ ví chỉ được bỏ phiếu một lần, cơ chế này được thực thi hoàn toàn bởi smart contract on-chain.
 Link website: https://vote-chain-one.vercel.app/
-# Link youtobe giới thiệu và hướng dẫn sử dụng
+# Link youtube giới thiệu và hướng dẫn sử dụng
 https://youtu.be/1yYRMkSOpRk
 # Link prototype
 https://www.figma.com/design/nUO4j4wsQKVQGFpci6HpMf/Web3?node-id=0-1&p=f&t=0gHunN4ITXXLp1GH-0
